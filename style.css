@@ -5,10 +5,11 @@ label{
 input{
     border: 2px solid #ccc;
     padding: 7px;
+    width: 500px;
 }
 
 form #Date , #Quantity , #Year{
-    width: 470px;
+    width: 500px;
 }
 form #Comment{
     padding-bottom: 100px;
