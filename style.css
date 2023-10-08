@@ -1,0 +1,22 @@
+label{
+    display: flex;
+    padding-bottom: 10px;
+}
+input{
+    border: 2px solid #ccc;
+    padding: 7px;
+}
+
+form #Date , #Quantity , #Year{
+    width: 470px;
+}
+form #Comment{
+    padding-bottom: 100px;
+}
+form textarea {
+  width: 500px;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+}
